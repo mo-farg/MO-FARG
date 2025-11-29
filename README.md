@@ -10,10 +10,6 @@
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=MohamedAyman&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MohamedAyman&count_bg=%2379C83D&title_bg=%23555555&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/MohamedAyman-grey?style=flat&logo=telegram)](https://t.me)
-
 </div>
 
 <hr>
@@ -63,7 +59,7 @@
 ![MicroC](https://img.shields.io/badge/MicroC-green?style=flat)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
+![HTML](https://img.shields.io/badge/HTML5-E33F26?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite)
