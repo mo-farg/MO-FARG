@@ -4,7 +4,6 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
 
 <details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
 
